@@ -1,0 +1,9 @@
+{
+	"name": "adf-fitness",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "925194f6-5125-4024-923f-8d66f689c9c6",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
